@@ -1,4 +1,3 @@
-Below is a README in the same general structure and style as the attached example .
 
 # NLP Text Processing and Named Entity Recognition Demo
 
