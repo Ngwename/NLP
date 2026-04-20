@@ -1,6 +1,5 @@
 Below is a README in the same general structure and style as the attached example .
 
-````markdown
 # NLP Text Processing and Named Entity Recognition Demo
 
 ## Table of Contents
